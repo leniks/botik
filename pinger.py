@@ -2,7 +2,7 @@ import vk_api
 from vk_api.longpoll import VkLongPoll
 import requests
 
-phone_number = "9152415333"
+phone_number = ""
 key = ""
 session = requests.Session()
 
