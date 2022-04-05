@@ -7,7 +7,7 @@ B = 20
 limit = 100
 
 
-phone_number = "9152415333"
+phone_number = ""
 key = ""
 session = requests.Session()
 
