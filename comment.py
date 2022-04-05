@@ -12,7 +12,7 @@ owner_id = -192350539
 post_id = 1031514
 
 phone_number = "9152415333"
-key = "f3957576d3370df3e238dbfb6e9361cb84f0817d5c99fa96f044aca8f69228720afa06216d98a3821c50e"
+key = ""
 session = requests.Session()
 
 vk_session = vk_api.VkApi(login=phone_number, token=key)
