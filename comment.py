@@ -11,8 +11,8 @@ link = "https://vk.com/wall-192350539_1031514"
 owner_id = -192350539
 post_id = 1031514
 
-phone_number = ""
-key = ""
+phone_number = "a"
+key = "a"
 session = requests.Session()
 
 vk_session = vk_api.VkApi(login=phone_number, token=key)
